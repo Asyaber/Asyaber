@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=800000&size=29&multiline=true&width=800&lines=Hi+There!+Welcome+To+My+GitHub+Profile:))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=800000&size=29&multiline=true&width=800&lines=Hi+There!+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 # I'm Assiya
 
