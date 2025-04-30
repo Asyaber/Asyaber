@@ -29,7 +29,7 @@
  <br>
 
 
-Feel free to connect! <a href="https://www.linkedin.com/in/assiya-beribassova/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <br>Always open to sharing ideas and growing together in the world of QA. <br>Let's improve quality, one test at a time!
+Feel free to connect! <a href="https://www.linkedin.com/in/assiya-beribassova/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <br>Always open to share ideas and growing together in the world of QA. <br>Let's improve quality, one test at a time!
 
 
 <br><br>
