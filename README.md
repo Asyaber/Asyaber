@@ -1,4 +1,13 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=800000&size=29&multiline=true&width=700&lines=Hi+There!+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
+ <div align="right" >
+ <img align="right" width="100"  src= "c43caaa0-25d2-11f0-be48-0242ac140003.jpg">
+ <br>
+ <br>
+ 
+ # I'm Assiya 
+ 
+ </div>
+ ## Hi there 👋
 
 <!--
 **Asyaber/Asyaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
