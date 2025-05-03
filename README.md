@@ -32,9 +32,6 @@
 Feel free to connect! <a href="https://www.linkedin.com/in/assiya-beribassova/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <br>Always open to share ideas and growing together in the world of QA. <br>Let's improve quality, one test at a time!
 
 
-<br><br>
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?lines=I’m%20always%20learning,%20always%20looking%20to%20improve,%20and%20happy%20to%20chat%20with%20other%20folks%20in%20tech!&font=Fira%20Code&color=FFA500&size=22&pause=1000&width=1000&duration=6000" />
-</a>
+
 
 
